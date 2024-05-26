@@ -11,13 +11,13 @@
 
 # OUTPUT
 
-![image](https://github.com/sruthib211998/powerbi/assets/67575229/f3873f07-f9ee-4b6e-8dc3-c6e70d0d6142)
+![image](https://github.com/sruthib211998/powerbi/assets/67575229/6c436453-8686-4cb6-8b2b-198b3a0d2770)
+
+![image](https://github.com/sruthib211998/powerbi/assets/67575229/99917cbf-a9a5-43e8-9857-d3f930e0e546)
+
+![Uploading image.png…]()
 
 
-![image](https://github.com/sruthib211998/powerbi/assets/67575229/61eee33d-8f99-4f96-a747-59126bd6dae4)
-
-
-![image](https://github.com/sruthib211998/powerbi/assets/67575229/5678d76d-0fcf-470e-a467-238b1c878dba)
 
 
 
